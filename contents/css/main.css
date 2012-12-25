@@ -1,13 +1,12 @@
-
 h1, h2, h3, h4, h5, h6, p, blockquote, body {
   margin: 0;
   padding: 0;
 }
 
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
+  font-family: 'Buenard', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  //line-height: 18px;
   color: #252824;
 }
 
@@ -20,25 +19,11 @@ h1 {
   font-size: 30px;
 }
 
-h2 {
-  font-size: 24px;
-}
-
-h3 {
-  font-size: 18px;
-}
-
-h4 {
-  font-size: 16px;
-}
-
-h5 {
-  font-size: 14px;
-}
-
-h6 {
-  font-size: 13px;
-}
+h2 { font-size: 24px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+h5 { font-size: 14px; }
+h6 { font-size: 13px; }
 
 a {
   color: #225a93;
@@ -72,7 +57,7 @@ p {
 body > header {
   border-bottom: 2px solid #0c3a7f;
   background-color: #647ba2;
-  padding-top: 5px;
+  //padding-top: 5px;
   color: #fff;
   background: rgb(23,72,146);
   background: -moz-linear-gradient(top,  rgba(23,72,146,1) 0%, rgba(28,86,149,1) 25%, rgba(37,93,161,1) 50%, rgba(51,107,164,1) 75%, rgba(54,111,165,1) 100%);
@@ -90,9 +75,9 @@ body > header * {
   padding: 0;
 }
 
-body > header .inner {
-  margin: 15px 40px;
-}
+//body > header .inner {
+//  margin: 15px 40px;
+//}
 
 
 body > footer {
@@ -109,8 +94,7 @@ body > footer .inner {
 
 body > header h1 {
   font-family: 'Fredericka the Great', cursive;
-  font-size: 39px;
-  line-height: 39px;
+  font-size: 20px;
   text-shadow: rgba(255,255,255,0.3) 0 0 10px;
 }
 
@@ -145,29 +129,11 @@ body > header a.back:hover {
   margin: 40px;
 }
 
-article.post {
-  margin-bottom: 60px;
-}
-
 #content img {
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-}
-
-article.post header {
-  margin-bottom: 22px;
-  border-bottom: 1px solid #dfdfdf;
-}
-
-article.post header a {
-  color: #252824;
-  text-decoration: none;
-}
-
-article.post header a:hover {
-  text-shadow: none;
-  text-decoration: underline;
+  float: left;
 }
 
 hr {
@@ -249,14 +215,14 @@ pre code {
     margin-right: auto;
   }
   body > header .inner {
-    margin: 30px auto;
+    margin: 10px auto;
   }
   body > header {
-    padding-top: 30px;
+    padding-top: 1px;
   }
   body > header h1 {
-    font-size: 58px;
-    line-height: 62px;
+    font-size: 38px;
+    //line-height: 62px;
     text-shadow: rgba(255,255,255,0.3) 0 0 20px;
   }
 }

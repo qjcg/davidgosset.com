@@ -3,9 +3,11 @@ template: index.jade
 title: About Me
 ---
 
+<span class="centerimg">
 ![David Gosset](img/dgossetIQC_sm.jpg)
+</span>
 
-I am an postdoctoral fellow at the [Institute for Quantum Computing] and
+I am a postdoctoral fellow at the [Institute for Quantum Computing] and
 the [Department of Combinatorics and Optimization] at the [University of Waterloo]
 (currently supervised by [Andrew Childs] and [Michele Mosca]).
 
