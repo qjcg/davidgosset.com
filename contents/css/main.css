@@ -1,3 +1,9 @@
+/*
+ *
+ * Basic HTML elements
+ *
+ */
+
 h1, h2, h3, h4, h5, h6, p, blockquote, body {
   margin: 0;
   padding: 0;
@@ -23,7 +29,14 @@ a:hover {
   text-decoration: underline;
 }
 
-p { margin-bottom: 9px; }
+p { margin-bottom: 5px; }
+
+
+/*
+ *
+ * Children and stuff
+ *
+ */
 
 body > header {
   border-bottom: 1px solid black;
@@ -67,8 +80,19 @@ body > header h1 a:hover {
 }
 
 #content img {
-  padding: 0 10px 10px 0;
+  box-shadow: 7px 7px 15px #dfdfdf;
+  margin-right: 15px;
+  float: left;
+  min-height: 200px;
 }
+
+section.col_right {
+  display: inline;
+}
+
+/*
+ * Responsively set other stuff when big
+ */
 
 @media screen and (min-width: 776px) {
   body > header .inner,
@@ -88,15 +112,4 @@ body > header h1 a:hover {
     font-size: 38px;
     text-shadow: rgba(255,255,255,0.3) 0 0 20px;
   }
-}
-
-section.col_left {
-  display: inline-block;
-  min-height: 200px;
-  border-right: 1px solid #dfdfdf;
-}
-
-section.col_right {
-  display: inline-block;
-  min-height: 200px;
 }
