@@ -1,7 +1,7 @@
 /*
- *
- * Basic HTML elements
- *
+
+ Basic HTML elements
+
  */
 
 h1, h2, h3, h4, h5, h6, p, blockquote, body {
@@ -27,19 +27,20 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
+a:hover { text-decoration: underline; }
 p { margin-bottom: 5px; }
-
-li:hover { background: lightblue; }
+li { padding: .2em; }
+li:hover {
+  padding: .2em;
+  background: #FFFddb;
+}
+cite { font-style: italic; }
 
 
 /*
- *
- * Children and stuff
- *
+
+ Children and stuff
+ 
  */
 
 body > header {
@@ -95,7 +96,7 @@ section.col_right {
 }
 
 /*
- * Responsively set other stuff when big
+ Responsively set other stuff when big
  */
 
 @media screen and (min-width: 776px) {

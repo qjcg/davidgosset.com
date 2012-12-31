@@ -1,4 +1,5 @@
 {
+  "plugins": ["wintersmith-sass"],
   "locals": {
     "url": "http://davidgosset.com",
     "name": "David Gosset",
