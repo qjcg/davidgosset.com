@@ -29,9 +29,8 @@ a {
 
 a:hover { text-decoration: underline; }
 p { margin-bottom: 5px; }
-li { padding: .2em; }
+li { padding: .3em; }
 li:hover {
-  padding: .2em;
   background: #FFFddb;
 }
 cite { font-style: italic; }
