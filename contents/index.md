@@ -3,18 +3,17 @@ template: index.jade
 title: About Me
 ---
 
-I am a postdoctoral fellow at the [Institute for Quantum Computing] and
-the [Department of Combinatorics and Optimization] at the [University of Waterloo]
-(currently supervised by [Andrew Childs] and [Michele Mosca]).
+I am a postdoctoral fellow at the [Institute for Quantum
+Computing] and the [Department of Combinatorics and
+Optimization] at the [University of Waterloo] (currently
+supervised by [Andrew Childs] and [Michele Mosca]). I
+completed my PhD in Physics in 2011 at [MIT] under the
+supervision of [Eddie Farhi]. Before that, I did my
+undergraduate degree in physics and math at [UBC].
 
-I completed my PhD in Physics in 2011 at [MIT] under the supervision of
-[Eddie Farhi].
-
-Before that, I did my undergraduate degree in physics and math at [UBC].
-
-I am interested in quantum algorithms, quantum walks, Hamiltonian
-complexity theory, and other areas in quantum computation and quantum
-information.
+I am interested in quantum algorithms, quantum walks,
+Hamiltonian complexity theory, and other areas in quantum
+computation and quantum information.
 
 I can be reached by email at dngosset at gmail dot com.
 
