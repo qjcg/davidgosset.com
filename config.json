@@ -4,7 +4,7 @@
   "output": "./build",
   "port": 9999,
   "locals": {
-    "url": "http://davidgosset.com",
+    "url": "http://www.davidgosset.com",
     "name": "David Gosset",
     "owner": "David Gosset"
   }
