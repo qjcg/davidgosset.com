@@ -1,0 +1,16 @@
+{
+  "name": "davidgosset.com",
+  "version": "0.2.0",
+  "description": "Personal website for David Gosset",
+  "scripts": {
+    "build": "wintersmith --test123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@caerus.jgosset.net:websites_davidgosset.com.git"
+  },
+  "author": "John Gosset",
+  "dependencies": {
+    "wintersmith": "^2.0.10"
+  }
+}
