@@ -1,0 +1,121 @@
+/*
+
+ Basic HTML elements
+
+ */
+
+h1, h2, h3, h4, h5, h6, p, blockquote, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Buenard', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  color: #252824;
+}
+
+h1 {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  font-size: 20px;
+}
+
+a {
+  color: #225a93;
+  text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+p {
+  margin-bottom: .5em;
+}
+li { padding: .3em; }
+li:hover {
+  background: #FFFddb;
+}
+cite { font-style: italic; }
+
+
+/*
+
+ Children and stuff
+ 
+ */
+
+body > header {
+  border-bottom: 1px solid black;
+  color: #fff;
+}
+
+body >footer *,
+body > header * {
+  margin: 0;
+  padding: 0;
+}
+
+body > footer {
+  margin: 0 40px;
+}
+
+body > footer .inner {
+  border-top: 1px solid #dfdfdf;
+  padding: 10px 0;
+  text-indent: 5px;
+  color: #b6b6b6;
+  font-style: italic;
+}
+
+body > header h1 {
+  font-family: 'Rufina', cursive;
+  font-size: 20px;
+  text-shadow: rgba(255,255,255,0.3) 0 0 10px;
+}
+
+body > header a {
+  color: black;
+}
+
+body > header h1 a:hover {
+  text-decoration: none;
+}
+
+#content {
+  margin: 40px;
+}
+
+#content img {
+  box-shadow: 7px 7px 15px #dfdfdf;
+  margin-right: 15px;
+  float: left;
+  min-height: 200px;
+}
+
+section.col_right {
+  display: inline;
+}
+
+/*
+ Responsively set other stuff when big
+ */
+
+@media screen and (min-width: 776px) {
+  body > header .inner,
+  body > footer .inner,
+  #content {
+    width: 676px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body > header .inner {
+    margin: 10px auto;
+  }
+  body > header {
+    padding-top: 1px;
+  }
+  body > header h1 {
+    font-size: 38px;
+    text-shadow: rgba(255,255,255,0.3) 0 0 20px;
+  }
+}
