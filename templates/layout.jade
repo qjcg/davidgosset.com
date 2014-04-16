@@ -11,13 +11,14 @@ html(lang='en')
       link(rel='stylesheet', href='css/main.css')
   body
     header
-      div.inner
+      .inner
         block header
           h1
             a(href=locals.url)= locals.name
-    div#content
+    #content
       block content
     footer
       div.inner
         block footer
           p &copy; #{ new Date().getFullYear() } #{ locals.owner }
+    block javascript
