@@ -29,7 +29,16 @@ I can be reached by email at dngosset at gmail dot com.
 
 # Publications and Preprints
 
-1. <cite>Universal computation by multi-particle quantum walk</cite>.
+1. <cite>The Bose-Hubbard model is QMA-complete</cite>.
+   Andrew M. Childs, David Gosset, Zak Webb.
+   [arxiv:1311.3297](http://arxiv.org/abs/1311.3297)
+- <cite>An algorithm for the T-count</cite>. David Gosset,
+  Vadym Kliuchnikov, Michele Mosca, Vincent Russo. 2013.
+  [arxiv:1308.4134](http://arxiv.org/abs/1308.4134)
+- <cite>Quantum 3-SAT is QMA1-complete</cite>. David Gosset,
+  Daniel Nagaj.  To appear in FOCS 2013.
+  [arxiv:1302.0290](http://arxiv.org/abs/1302.0290)
+- <cite>Universal computation by multi-particle quantum walk</cite>.
   Andrew M. Childs, David Gosset, and Zak Webb.
   [arxiv:1205.3782](http://arxiv.org/abs/1205.3782)
 - <cite>[Levinson's theorem for graphs II][2]</cite>. Andrew
@@ -46,7 +55,7 @@ I can be reached by email at dngosset at gmail dot com.
 - <cite>[Quantum money][4]</cite>. Scott Aaronson, Edward
   Farhi, David Gosset, Avinatan Hassidim, Jonathan Kelner,
   Andrew Lutomirski.  Communications of the ACM 55(8), 2012.
-- <cite>[Quantum money from knots][5]</cite> Edward
+- <cite>[Quantum money from knots][5]</cite>. Edward
   Farhi, David Gosset, Avinatan Hassidim, Andrew Lutomirski,
   Peter Shor. ITCS '12 Proceedings of the 3rd Innovations in
   Theoretical Computer Science Conference.

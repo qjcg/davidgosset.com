@@ -1,5 +1,8 @@
 {
-  "plugins": ["wintersmith-stylus"],
+  "contents": "./contents",
+  "templates": "./templates",
+  "output": "./build",
+  "port": 9999,
   "locals": {
     "url": "http://davidgosset.com",
     "name": "David Gosset",

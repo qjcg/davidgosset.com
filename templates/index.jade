@@ -4,7 +4,7 @@ append head
   link(rel='stylesheet', href='http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css')
 
 prepend title
-  | #{ page.title } - 
+  | #{page.title} - 
 
 append content
   article
@@ -12,10 +12,10 @@ append content
     section.content
       != page.html
 
-append javascript
+append scripts
   script(type="text/javascript", src="http://code.jquery.com/jquery-1.8.3.js")
   script(type="text/javascript", src="http://code.jquery.com/ui/1.9.2/jquery-ui.js")
-  script(type="text/javascript")
+  script(type="text/javascript").
     $(document).ready(function() {
       $('img').draggable();
     });
