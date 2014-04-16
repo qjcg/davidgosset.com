@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Personal website for David Gosset",
   "scripts": {
-    "build": "wintersmith --test123"
+    "build": "wintersmith build --clean"
   },
   "repository": {
     "type": "git",
