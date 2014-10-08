@@ -11,6 +11,6 @@
   },
   "author": "John Gosset",
   "dependencies": {
-    "wintersmith": "^2.0.10"
+    "wintersmith": "^2.1.0"
   }
 }
