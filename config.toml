@@ -1,0 +1,41 @@
+baseURL = "http://www.davidgosset.com"
+languageCode = "en-us"
+title = "David Gosset"
+theme = "coder"
+
+[params]
+author = "Prof. David Gosset"
+info = "Quantum Computing Researcher"
+description = "David Gosset's Personal Website"
+keywords = "quantum,computing,mathematics,personal"
+avatarurl = "/img/dave.jpg"
+hidecredits = true
+
+
+[[params.social]]
+name = "Google"
+icon = "fab fa-google fa-2x"
+weight = 3
+url = "https://scholar.google.com/citations?user=9wC84xIAAAAJ&hl=en"
+
+[[params.social]]
+name = "Twitter"
+icon = "fab fa-twitter fa-2x"
+weight = 3
+url = "https://twitter.com/QuantumGosset/"
+
+
+[[menu.main]]
+name = "Publications"
+weight = 1
+url  = "/publications/"
+
+[[menu.main]]
+name = "Teaching"
+weight = 2
+url  = "/teaching/"
+
+[[menu.main]]
+name = "About"
+weight = 3
+url  = "/bio/"
