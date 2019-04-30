@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@caerus.jgosset.net:websites_davidgosset.com.git"
+    "url": "git@git.jgosset.net:davidgosset.com.git"
   },
   "author": "John Gosset",
   "dependencies": {
