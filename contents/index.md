@@ -28,6 +28,7 @@ math at [UBC].
 [MIT]: https://web.mit.edu
 [Eddie Farhi]: https://web.mit.edu/physics/people/faculty/farhi_edward.html
 [UBC]: https://www.ubc.ca
+[Google Scholar]: https://scholar.google.com/citations?user=9wC84xIAAAAJ&hl=en
 
 
 # Publications and Preprints (see also [Google Scholar])
@@ -113,5 +114,3 @@ math at [UBC].
 [10]: http://link.aps.org/doi/10.1103/PhysRevA.81.032331
 [11]: http://conference.itcs.tsinghua.edu.cn/ICS2010/content/papers/2.html
 [12]: http://pra.aps.org/abstract/PRA/v73/i6/e063624
-
-[Google Scholar]: https://scholar.google.com/citations?user=9wC84xIAAAAJ&hl=en
