@@ -3,31 +3,34 @@ template: index.pug
 title: About Me
 ---
 
-I am a postdoctoral fellow at the [Institute for Quantum
-Computing] and the [Department of Combinatorics and
-Optimization] at the [University of Waterloo] (currently
-supervised by [Andrew Childs] and [Michele Mosca]). I
-completed my PhD in Physics in 2011 at [MIT] under the
-supervision of [Eddie Farhi]. Before that, I did my
-undergraduate degree in physics and math at [UBC].
+I am an Associate Professor in the [Department of
+Combinatorics and Optimization] and the [Institute for
+Quantum Computing] at the [University of Waterloo]. I am
+interested in the theory of quantum computing, quantum
+algorithms and quantum complexity theory.
 
-I am interested in quantum algorithms, quantum walks,
-Hamiltonian complexity theory, and other areas in quantum
-computation and quantum information.
+<span style="color: red">Please contact me if you are
+interested in joining my group as a graduate student or
+postdoctoral fellow.</span> I can be reached by email at
+dgosset at uwaterloo dot ca.
 
-I can be reached by email at dngosset at gmail dot com.
+Previously I was a research staff member and manager of the
+Theory of Quantum Algorithms group at the IBM T.J. Watson
+Research Center. Before joining IBM I held postdoctoral
+fellowships at IQC/Waterloo, and at Caltech. I completed my
+PhD in Physics in 2011 at [MIT] under the supervision of
+[Eddie Farhi]. I did my undergraduate degree in physics and
+math at [UBC]. 
 
-[Institute for Quantum Computing]: http://iqc.uwaterloo.ca
-[Department of Combinatorics and Optimization]: http://math.uwaterloo.ca/combinatorics-and-optimization/
-[University of Waterloo]: http://uwaterloo.ca
-[Andrew Childs]: https://services.iqc.uwaterloo.ca/people/profile/amchilds/
-[Michele Mosca]: https://services.iqc.uwaterloo.ca/people/profile/mmosca/
-[MIT]: http://mit.edu
-[Eddie Farhi]: http://web.mit.edu/physics/people/faculty/farhi_edward.html
-[UBC]: http://www.ubc.ca
+[Institute for Quantum Computing]: https://uwaterloo.ca/institute-for-quantum-computing/
+[Department of Combinatorics and Optimization]: https://uwaterloo.ca/combinatorics-and-optimization/
+[University of Waterloo]: https://uwaterloo.ca
+[MIT]: https://web.mit.edu
+[Eddie Farhi]: https://web.mit.edu/physics/people/faculty/farhi_edward.html
+[UBC]: https://www.ubc.ca
 
 
-# Publications and Preprints
+# Publications and Preprints (see also [Google Scholar])
 
 1. <cite>The Bose-Hubbard model is QMA-complete</cite>.
    Andrew M. Childs, David Gosset, Zak Webb.
@@ -110,3 +113,5 @@ I can be reached by email at dngosset at gmail dot com.
 [10]: http://link.aps.org/doi/10.1103/PhysRevA.81.032331
 [11]: http://conference.itcs.tsinghua.edu.cn/ICS2010/content/papers/2.html
 [12]: http://pra.aps.org/abstract/PRA/v73/i6/e063624
+
+[Google Scholar]: https://scholar.google.com/citations?user=9wC84xIAAAAJ&hl=en
