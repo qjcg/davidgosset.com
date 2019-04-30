@@ -1,10 +1,11 @@
 {
   "name": "davidgosset.com",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Personal website for David Gosset",
   "scripts": {
-    "start": "wintersmith preview",
-    "build": "wintersmith build --clean"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -12,8 +13,8 @@
   },
   "author": "John Gosset",
   "dependencies": {
-    "nib": "^1.1.2",
-    "wintersmith": "^2.5.0",
-    "wintersmith-stylus": "^0.5.1"
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
