@@ -1,6 +1,6 @@
 {
   "name": "davidgosset.com",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Personal website for David Gosset",
   "scripts": {
     "build": "wintersmith build --clean"
