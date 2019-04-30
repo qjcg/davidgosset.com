@@ -11,7 +11,7 @@
     "url": "git@git.jgosset.net:davidgosset.com.git"
   },
   "author": "John Gosset",
-  "devDependencies": {
+  "dependencies": {
     "nib": "^1.1.2",
     "wintersmith": "^2.5.0",
     "wintersmith-stylus": "^0.5.1"
