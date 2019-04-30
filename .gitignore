@@ -4,3 +4,4 @@ neat
 *.zip
 nib
 node_modules
+build/
