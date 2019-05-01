@@ -1,6 +1,21 @@
-img {
-  box-shadow: 7px 7px 15px #666;
+@keyframes spin {
+    0% { transform: rotateY(0deg); }
+  100% { transform: rotateY(3239deg); }
 }
+
+/*.avatar:hover {*/
+  /*animation: 1.5s ease-in-out 0.5s 1 spin;*/
+/*}*/
+
+img {
+  box-shadow: 5px 9px 10px #666;
+}
+
+/*.about h1,*/
+/*.about h2*/
+/*{*/
+  /*text-shadow: 2px 3px 3px #999;*/
+/*}*/
 
 
 /*
