@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/bunsenapp/go-selenium"
+	goselenium "github.com/bunsenapp/go-selenium"
 )
 
 func main() {
@@ -14,7 +14,7 @@ func main() {
 	capabilities.SetBrowser(goselenium.FirefoxBrowser())
 
 	// Initialise a new web driver.
-	driver, err := goselenium.NewSeleniumWebDriver("http://localhost:4444/wd/hub", capabilities)
+	driver, err := goselenium.NewSeleniumWebDriver("http://127.0.0.1:4444/wd/hub", capabilities)
 	if err != nil {
 		fmt.Println(err)
 		return
@@ -39,4 +39,3 @@ func main() {
 	// Hooray, we navigated to Google!
 	fmt.Println("Successfully navigated to Google!")
 }
-
