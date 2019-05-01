@@ -10,6 +10,7 @@ description = "David Gosset's Personal Website"
 keywords = "quantum,computing,mathematics,personal"
 avatarurl = "/img/dave.jpg"
 hidecredits = true
+custom_css = ["/css/main.css"]
 
 
 [[params.social]]
