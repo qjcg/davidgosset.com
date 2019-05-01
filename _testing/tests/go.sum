@@ -1,0 +1,4 @@
+github.com/bunsenapp/go-selenium v0.1.0 h1:sDE9BCUoZNWycffacIzjU2ubpGTCMX3K9+QhbsbY4EI=
+github.com/bunsenapp/go-selenium v0.1.0/go.mod h1:QbngcjhmXoGwhOcwBMhSXYl1A29IVDZff1T00GZ7y30=
+github.com/tebeka/selenium v0.9.3 h1:VhduicmEfSggPSsMAxKXKVQxunJWzSqT86RrQTcvT/I=
+github.com/tebeka/selenium v0.9.3/go.mod h1:eIMjt8y9rypiIrlx7TAlwwjiL8pr0uqZYQHUxhA2NNE=
