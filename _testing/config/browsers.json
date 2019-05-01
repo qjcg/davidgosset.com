@@ -1,9 +1,9 @@
 {
     "firefox": {
-        "default": "57.0",
+        "default": "66.0",
         "versions": {
-            "57.0": {
-                "image": "selenoid/vnc:firefox_57.0",
+            "66.0": {
+                "image": "selenoid/vnc:firefox_66.0",
                 "port": "4444",
                 "path": "/wd/hub"
             }
