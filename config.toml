@@ -5,10 +5,10 @@ theme = "coder"
 
 [params]
 author = "Prof. David Gosset"
-info = "Quantum Computing Researcher"
+info = "Quantum Computing Researcher @ IQC"
 description = "David Gosset's Personal Website"
 keywords = "quantum,computing,mathematics,personal"
-avatarurl = "/img/dave.jpg"
+avatarurl = "/img/dgosset.jpg"
 hidecredits = true
 hidecopyright = true
 custom_css = ["/css/main.css"]
@@ -25,6 +25,12 @@ name = "Twitter"
 icon = "fab fa-twitter fa-2x"
 weight = 3
 url = "https://twitter.com/QuantumGosset/"
+
+[[params.social]]
+name = "Email"
+icon = "fas fa-envelope fa-2x"
+weight = 3
+url = "mailto:fake@email.com"
 
 
 [[menu.main]]
