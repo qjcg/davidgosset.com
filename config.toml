@@ -10,6 +10,7 @@ description = "David Gosset's Personal Website"
 keywords = "quantum,computing,mathematics,personal"
 avatarurl = "/img/dave.jpg"
 hidecredits = true
+hidecopyright = true
 custom_css = ["/css/main.css"]
 
 
@@ -39,4 +40,4 @@ url  = "/teaching/"
 [[menu.main]]
 name = "About"
 weight = 3
-url  = "/bio/"
+url  = "/about/"
