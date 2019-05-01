@@ -1,4 +1,5 @@
-baseURL = "http://www.davidgosset.com"
+baseURL = "https://gossetx.com/dave-demo"
+canonifyURLs = true
 languageCode = "en-us"
 title = "David Gosset"
 theme = "coder"
