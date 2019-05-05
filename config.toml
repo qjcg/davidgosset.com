@@ -35,9 +35,9 @@ url = "mailto:fake@email.com"
 
 
 [[menu.main]]
-name = "Publications"
+name = "Research"
 weight = 1
-url  = "/publications/"
+url  = "/research/"
 
 [[menu.main]]
 name = "Teaching"
