@@ -13,9 +13,12 @@ It all happens in `config.toml`. See the [coder] theme's [wiki] configuration pa
 
 ## Local Development
 
-To work on the site, run:
+To work on the site:
 
 ```sh
+git clone https://github.com/qjcg/davidgosset.com
+cd davidgosset.com
+git submodule update --init --recursive
 hugo serve
 ```
 
