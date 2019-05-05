@@ -5,7 +5,7 @@ Personal website built with [Hugo](https://gohugo.io).
 
 ## Theme Configuration
 
-It all happens in `config.toml`. See the [coder] theme's [wiki] configuration parameters.
+It all happens in [`config.toml`](config.toml). See the [coder] theme's [wiki] configuration parameters.
 
 [coder]: https://themes.gohugo.io/hugo-coder/
 [wiki]: https://github.com/luizdepra/hugo-coder/wiki/Configurations
